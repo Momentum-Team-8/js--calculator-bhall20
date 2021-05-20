@@ -1,0 +1,13 @@
+.calculator_keys {
+    display: grid
+}
+
+.buttons {
+    width: 100px;
+    height: 100px;
+    background-color: #1bc420;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
